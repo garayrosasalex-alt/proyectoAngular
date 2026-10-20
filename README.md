@@ -1,0 +1,2 @@
+# proyectoAngular
+pc2resolut
